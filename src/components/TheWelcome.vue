@@ -34,25 +34,25 @@ export default {
     return {
       images: [
         {
-          src: '../src/images/1.jpg',
+          src: 'https://images.pling.com/img/00/00/62/69/92/1682422/samurai-cyberpunk-20771.jpg',
           alt: 'Slide 1',
           title: 'Slide 1 Title',
           description: 'Slide 1 Description',
         },
         {
-          src: '../src/images/2.jpg',
+          src: 'https://i.ytimg.com/vi/VOXOdflScCY/maxresdefault.jpg',
           alt: 'Slide 2',
           title: 'Slide 2 Title',
           description: 'Slide 2 Description',
         },
         {
-          src: '../src/images/3.jpg',
+          src: 'https://i.ytimg.com/vi/-YD6yP5jqMI/maxresdefault.jpg',
           alt: 'Slide 3',
           title: 'Slide 3 Title',
           description: 'Slide 3 Description',
         },
         {
-          src: '../src/images/4.jpg',
+          src: 'https://i.ytimg.com/vi/Igq3d6XA75Y/maxresdefault.jpg',
           alt: 'Slide 3',
           title: 'Slide 3 Title',
           description: 'Slide 3 Description',
